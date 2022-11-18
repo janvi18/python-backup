@@ -1,0 +1,76 @@
+Python is a general purpose, dynamic, high-level, and interpreted programming language. 
+It supports Object Oriented programming approach to develop applications. 
+It is simple and easy to learn and provides lots of high-level data structures.
+
+Features : 
+- Easy to use and Learn
+- Expressive Language
+- Interpreted Language
+- Object-Oriented Language
+- Open Source Language
+- Extensible
+- Learn Standard Library
+- GUI Programming Support
+- Integrated
+- Embeddable
+- Dynamic Memory Allocation
+- Wide Range of Libraries and Frameworks
+
+Where is Python used?
+
+- Data Science
+- Date Mining
+- Desktop Applications
+- Console-based Applications
+- Mobile Applications
+- Software Development
+- Artificial Intelligence
+- Web Applications
+- Enterprise Applications
+- 3D CAD Applications
+- Machine Learning
+- Computer Vision or Image Processing Applications.
+- Speech Recognitions
+
+
+Date Types:
+
+1. Numbers --. int,float,complex number
+2. Sequence Type --> string,list,tuple
+3. Boolean 
+4. Set 
+5. Dictionary
+
+Comments : 
+
+single line --> #
+multi line --> ''''''
+
+
+
+Operators:
+
+Arithmetic operators --> + - * / %
+Comparison operators --> == != <= >= < >
+Assignment Operators --> =  += -= 
+Logical Operators --> and or not 
+Bitwise Operators --> binary
+Membership Operators --> in notin 
+Identity Operators --> is isnot
+
+
+Loops:
+
+While loop --> Repeats a statement or group of statements while a given condition is TRUE. 
+               It tests the condition before executing the loop body.
+For loop --> This type of loop executes a code block multiple times and abbreviates the code that manages the loop variable.
+Nested loops --> We can iterate a loop inside another loop.
+
+Loop Control Statements:
+
+Break statement	--> terminates the loop's execution and transfers the program's control to the statement next to the loop.
+Continue statement --> This command skips the current iteration of the loop. 
+                       continue statement are not executed once the Python interpreter reaches the continue statement.
+Pass statement	--> The pass statement is used when a statement is syntactically necessary, but no code is to be executed.
+
+
